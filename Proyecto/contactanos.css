@@ -9,35 +9,30 @@ section img
     max-height: 100%;
 }
 
-.cat
+.facebook
 {
     height: 200px;
     width: 200px;
-    float: left;
 }
 
-.mat
+.twitter
 {
     height: 200px;
     width: 200px;
-    float: left;
 }
 
-.bat
+.instagram
 {
     height: 200px;
     width: 200px;
-    float: left;
-}
-
-.pat
-{
-    height: 200px;
-    width: 200px;
-    float: left;
 }
 
 section h2
 {
-    font-size: 20px;
+    font-size: 40px;
+}
+
+section p
+{
+    font-size: 40px;
 }
